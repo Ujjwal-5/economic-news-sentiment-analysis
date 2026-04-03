@@ -54,4 +54,33 @@ This project focuses on scraping economic news articles from Business Standard a
 
 ---
 
-# - Ujjwal Abhinav
+## 📊 Data Source & Attribution
+
+This project involves web scraping of publicly available news headlines for **educational purposes only**.
+
+### 🔎 Source of Data
+
+* News headlines are collected from publicly accessible websites.
+* All rights to the content belong to their respective owners/publishers.
+
+### ⚠️ Disclaimer
+
+* This project does **not claim ownership** of any scraped content.
+* The data is used strictly for **learning, analysis, and demonstration purposes**.
+* No copyrighted content (such as full articles) is stored or redistributed in this repository.
+
+### 📜 Compliance
+
+* Users of this project are responsible for ensuring compliance with:
+
+  * The respective website’s **Terms of Service**
+  * Applicable **copyright laws and regulations**
+
+### 🙏 Acknowledgment
+
+* I acknowledge and respect the work of all news publishers and content creators.
+
+---
+
+> ⚡ Note: If you are a content owner and would like your data removed, please feel free to raise an issue in this repository.
+
