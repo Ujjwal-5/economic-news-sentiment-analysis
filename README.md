@@ -16,11 +16,11 @@ This project focuses on scraping economic news articles from Business Standard a
 ## 3. Data Source
 - **Source:** Business Standard
 - **Data Collected:** Economic news headlines
-- **Output:** `output.csv` containing:
+- **Output:** `sample_output.csv` containing:
   - `Title` – News headline   
   - `Sentiment` – Classified sentiment score (Positive, Negative, Neutral)
 
-> Note: Only a small sample of the dataset is included in the repository (`output.csv`) due to copyright considerations.
+> Note: Only a small sample of the dataset is included in the repository (`sample_output.csv`) due to copyright considerations.
 
 ---
 
@@ -50,7 +50,7 @@ This project focuses on scraping economic news articles from Business Standard a
      - Neutral (polarity = 0)
 
 4. **Output**  
-   - Save processed data with sentiment scores in `output.csv`.
+   - Save processed data with sentiment scores in `sample_output.csv`.
 
 ---
 
