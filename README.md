@@ -15,7 +15,7 @@ This project focuses on scraping economic news articles from Business Standard a
 
 ## 3. Data Source
 - **Source:** Business Standard
-- **Data Collected:** Economic news headlines, publication date, and article content.
+- **Data Collected:** Economic news headlines
 - **Output:** `output.csv` containing:
   - `Title` – Article headline  
   - `Date` – Publication date  
