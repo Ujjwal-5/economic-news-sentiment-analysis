@@ -17,9 +17,7 @@ This project focuses on scraping economic news articles from Business Standard a
 - **Source:** Business Standard
 - **Data Collected:** Economic news headlines
 - **Output:** `output.csv` containing:
-  - `Title` – Article headline  
-  - `Date` – Publication date  
-  - `Content` – Article text  
+  - `Title` – Article headline   
   - `Sentiment` – Classified sentiment score (Positive, Negative, Neutral)
 
 > Note: Only a small sample of the dataset is included in the repository (`output.csv`) due to copyright considerations.
